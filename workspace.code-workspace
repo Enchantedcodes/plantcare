@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../blossom java script"
+		},
+		{
+			"path": "../Blossom"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Blossom"
+	}
+}
